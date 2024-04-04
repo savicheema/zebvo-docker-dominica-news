@@ -1,5 +1,26 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Deployment
+
+1. Pull the code from this repository
+
+```
+git clone https://github.com/savicheema/zebvo-docker-dominica-news.git
+
+or
+
+git clone git@github.com:savicheema/zebvo-docker-dominica-news.git
+```
+
+2. Go inside the folder
+   `cd zebvo-docker-dominica-news`
+
+3. Create Docker image
+   `docker build . -t zebvo:v1`
+
+4. Run the Docker container
+   `docker run zebvo:v1`
+
 ## Getting Started
 
 First, run the development server:
