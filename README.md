@@ -19,7 +19,7 @@ git clone git@github.com:savicheema/zebvo-docker-dominica-news.git
    `docker build . -t zebvo:v1`
 
 4. Run the Docker container
-   `docker run zebvo:v1`
+   `docker run -p 3000:{PORT} zebvo:v1`
 
 ## Getting Started
 
