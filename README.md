@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Deployment
 
-1. Pull the code from this repository
+1. Pull the code from this repository OR (_Download zip file_)
 
 ```
 git clone https://github.com/savicheema/zebvo-docker-dominica-news.git
